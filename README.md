@@ -1,6 +1,5 @@
 # Objective
-Write a code of Conway's Game of Life as pastime.
-Using really basic Javascript, HTML and CSS concepts to make understandable even for beginers.
+Write a code of Conway's Game of Life as pastime using really basic Javascript, HTML and CSS concepts to make understandable even for beginers.
 Fully commented (really).
 
 # Rules
