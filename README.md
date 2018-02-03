@@ -17,7 +17,7 @@ What is it?<br>
 <br><br>
 What is it bitchin?<br>
 "In the October 1970 issue of Scientific American, Martin Gardner popularized Conway’s Game of Life by describing the game’s capacity to 'open up a whole new field of mathematical research, the field of cellular automata.' Many soon discovered the great power of cellular automata as models of computation. It was determined that cellular automata, as they appear in the Game of Life, have the same computational capacity as Turing machines." (Ref 1).
-<br>
+<br><br>
 It is also considered a 'artificial-live' creation and, of course, a great pastime.
 
 # References
